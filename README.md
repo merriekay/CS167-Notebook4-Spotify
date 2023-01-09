@@ -7,7 +7,7 @@ You will use a new dataset, the [Dataset of Spotify Songs](https://www.kaggle.co
 The goal for this machine learning exercise is to use the scikit-learn library implementation of **k-Nearest-Neighbors**, **Decision Trees**, and **Random Forests** to make predictions on the "Danceability" of Spotify songs. 
 
 ## The Exercises:
-**Part 1: [3 points]** You must run at least 6 variations of the algorithms and display their results using an appropriate regression metric (again, use the scikit-learn modules). I will be looking for the following to be included in your comparison:
+**Part 1: [3 points]** You must run at least 6 variations of the algorithms and display their results using an __appropriate regression metric__ (again, use the scikit-learn modules). I will be looking for the following to be included in your comparison:
 
 * weighted k-Nearest-Neighbor with a small value of k (the same one you used for the unweighted version)
 * weighted k-Nearest-Neighbor with a large value of k (the same one you used for the unweighted version)
